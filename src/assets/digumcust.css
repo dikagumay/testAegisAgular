@@ -1,0 +1,13 @@
+.namatoko span{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+.listall-box{
+    min-width: 625px;
+}
+.max-w-90{
+    max-width: 90rem;
+}
+.mat-toolbar-single-row{
+    padding: 38px 16px !important;
+}
